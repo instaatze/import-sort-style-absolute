@@ -1,0 +1,37 @@
+{
+  "name": "import-sort-style-absolute",
+  "version": "1.0.0",
+  "description": "Style for import-sort which is compatible with eslint-plugin-import's import/first with absolute-first option thus compatible with StandardJS & Airbnb's configs",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Alexander Bast",
+    "url": "https://github.com/alexanderbast"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "import-sort-style": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  },
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "keywords": [
+    "import-sort",
+    "import-sort-style",
+    "import-sort-style-absolute",
+    "eslint-plugin-import",
+    "sort imports"
+  ],
+  "homepage": "https://github.com/alexanderbast/import-sort-style-absolute",
+  "repository": {
+    "type": "git",
+    "url": "alexanderbast/import-sort-style-absolute"
+  },
+  "bugs": {
+    "url": "https://github.com/alexanderbast/import-sort-style-absolute/issues"
+  },
+  "typings": "lib/index.d.ts"
+}
