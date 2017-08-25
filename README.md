@@ -1,6 +1,6 @@
 # import-sort-style-absolute
 
-Style for the [import-sort](https://github.com/renke/import-sort) package which is compatible with [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/first.md)'s import/first with absolute-first option, thus making it compatible with the StandardJS and Airbnb configs. The remaining order is based on the default eslint sort-imports order.
+Style for the [import-sort](https://github.com/renke/import-sort) package which is compatible with [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)'s import/first rule with absolute-first option, thus making it compatible with the StandardJS and Airbnb configs. The remaining order is based on the default eslint sort-imports order.
 
 ## Install
 
