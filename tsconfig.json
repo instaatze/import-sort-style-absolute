@@ -5,7 +5,8 @@
     "module": "commonjs",
     "strict": true,
     "declaration": true,
-    "outDir": "lib"
+    "outDir": "lib",
+    "removeComments": true
   },
   "files": [
     "src/index.ts"
