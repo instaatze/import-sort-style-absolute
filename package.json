@@ -1,17 +1,16 @@
 {
   "name": "import-sort-style-absolute",
-  "version": "1.0.0",
-  "description": "Style for import-sort which is compatible with eslint-plugin-import's import/first with absolute-first option thus compatible with StandardJS & Airbnb's configs",
+  "version": "1.0.1",
+  "description": "Style for import-sort which is compatible with eslint-plugin-import's import/first rule with absolute-first option",
   "main": "lib/index.js",
   "author": {
     "name": "Alexander Bast",
     "url": "https://github.com/alexanderbast"
   },
   "license": "MIT",
-  "dependencies": {
-    "import-sort-style": "^3.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "import-sort-style": "^3.0.0",
     "typescript": "^2.4.2"
   },
   "scripts": {
