@@ -1,6 +1,8 @@
 # import-sort-style-absolute
 
-Style for the [import-sort](https://github.com/renke/import-sort) package which is compatible with [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)'s import/first rule with absolute-first option, thus making it compatible with the StandardJS and Airbnb configs. The remaining order is based on the default eslint sort-imports order.
+> Style for the [import-sort](https://github.com/renke/import-sort) package which is compatible with [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)'s import/first rule with absolute-first option, thus making it compatible with the StandardJS and Airbnb configs. The remaining order is based on the default eslint sort-imports order.
+
+[![npm](https://img.shields.io/npm/v/import-sort-style-absolute.svg)](https://www.npmjs.com/package/import-sort-style-absolute) [![npm](https://img.shields.io/npm/dt/import-sort-style-absolute.svg)](https://www.npmjs.com/package/import-sort-style-absolute) [![MIT licensed](https://img.shields.io/npm/l/import-sort-style-absolute.svg)](https://raw.githubusercontent.com/alexanderbast/import-sort-style-absolute/master/LICENSE)
 
 ## Install
 
